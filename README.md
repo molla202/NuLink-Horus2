@@ -3,6 +3,8 @@
 ![image](https://github.com/molla202/NuLink-Horus2/assets/91562185/b8633ea4-d5c1-4d0e-93c8-66d70209c041)
 
 ## Linkler:
+ * [Topluluk kanalımız](https://t.me/corenodechat)
+ * [Topluluk Twitter](https://twitter.com/corenodeHQ)
  * [NuLink Resmi Websitesi](https://www.nulink.org/)
  * [NuLink Resmi Twitter](https://twitter.com/NuLink_)
  * [NuLink Resmi Discord](https://discord.gg/25CQFUuwJS)
