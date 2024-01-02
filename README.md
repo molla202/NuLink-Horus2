@@ -105,6 +105,24 @@ nulink/nulink nulink ursula init \
 ```
 ![image](https://github.com/molla202/NuLink-Horus2/assets/91562185/4c7a8de5-679d-4ea7-ad8a-b75e0ac035e4)
 
+### Stake işlemleri ve bond
+- https://dashboard.testnet.nulink.org/staking adresine gidiyoruz burn cüzdanlardan birini bağlıyoruz. ve faucet alıcaz tbnb ve nulink için sayfanın sağ ustunde bir cüzdan simgesi var tıklayın ona ve size açılan pencerede faucet için yonlendiricek faucetleri alın.
+
+![image](https://github.com/molla202/NuLink-Horus2/assets/91562185/ac68b359-40af-44c4-98ad-762365d0dbec)
+
+- stake dıyoruz 5 dane dıor max deyınce 5 dane edin lütfen.
+
+![image](https://github.com/molla202/NuLink-Horus2/assets/91562185/2b5a3f84-9f40-419d-8735-9eb365ba4f3c)
+
+- Bond worker deyin ve sizden cüzdan adresi sorucam bu import ettiğimiz cüzdan adresimiz var ya UTC li hatta cüdan adresi yaz butya dediğimiz adres yazın onaylayın. 
+
+![image](https://github.com/molla202/NuLink-Horus2/assets/91562185/581a7f20-644f-4723-ad51-7f7cf62a034d)
+
+- daha sonra alttan çalıştırın. bi zaman son online olmanız gerekiyor.
+- belki daha sonra restart atmanız gerekebilir oda yazıyor aşağıda
+
+
+
 
 ### Başlatma
 Not: bişi değişmiyor aynen convaynen.
