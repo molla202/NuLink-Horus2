@@ -103,6 +103,7 @@ nulink/nulink nulink ursula init \
 --operator-address Cüznda-adresiburaya \
 --max-gas-price 10000000000
 ```
+- Aşağıdaki resim :D beel bi sıralamada sorucak yukardakini yazınca
 ![image](https://github.com/molla202/NuLink-Horus2/assets/91562185/4c7a8de5-679d-4ea7-ad8a-b75e0ac035e4)
 
 ### Stake işlemleri ve bond
