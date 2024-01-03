@@ -32,6 +32,7 @@ rm -rf nulink
 docker image da silinmeli `docker ps` yada `docker ps -a` yazıyoruz orda bi nulink containeri var en başındada kodu var o `docker-id`
 
 `docker stop docker-id`
+
 `dokcer rm docker-id`
 
 
